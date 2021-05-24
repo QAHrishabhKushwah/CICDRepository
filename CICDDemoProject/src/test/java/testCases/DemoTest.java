@@ -18,6 +18,7 @@ public class DemoTest {
 	}
 	@Test
 	public static void test1() {
+		driver.get("https://www.google.co.in");
 		System.out.println("test method 1");
 	}
 	@Test
