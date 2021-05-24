@@ -1,4 +1,6 @@
 package testCases;
+import java.io.Console;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
@@ -20,6 +22,7 @@ public class DemoTest {
 	public static void test1() {
 		driver.get("https://www.google.co.in");
 		System.out.println("test method 1");
+
 	}
 	@Test
 	public static void test2() {
