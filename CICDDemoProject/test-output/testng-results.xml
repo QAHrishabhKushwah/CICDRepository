@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="6477" started-at="2021-05-20T15:33:12 IST" finished-at="2021-05-20T15:33:18 IST">
+  <suite name="Suite" duration-ms="6656" started-at="2021-05-24T15:17:33 IST" finished-at="2021-05-24T15:17:40 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="6477" started-at="2021-05-20T15:33:12 IST" finished-at="2021-05-20T15:33:18 IST">
+    <test name="Test" duration-ms="6656" started-at="2021-05-24T15:17:33 IST" finished-at="2021-05-24T15:17:40 IST">
       <class name="testCases.DemoTest">
-        <test-method status="PASS" signature="launch()[pri:0, instance:testCases.DemoTest@166fa74d]" name="launch" is-config="true" duration-ms="6294" started-at="2021-05-20T15:33:12 IST" finished-at="2021-05-20T15:33:18 IST">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testCases.DemoTest@670002]" name="launch" is-config="true" duration-ms="4924" started-at="2021-05-24T15:17:33 IST" finished-at="2021-05-24T15:17:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:testCases.DemoTest@166fa74d]" name="test1" duration-ms="41" started-at="2021-05-20T15:33:18 IST" finished-at="2021-05-20T15:33:18 IST">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testCases.DemoTest@670002]" name="test1" duration-ms="794" started-at="2021-05-24T15:17:38 IST" finished-at="2021-05-24T15:17:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:testCases.DemoTest@166fa74d]" name="test2" duration-ms="3" started-at="2021-05-20T15:33:18 IST" finished-at="2021-05-20T15:33:18 IST">
+        <test-method status="PASS" signature="test2()[pri:0, instance:testCases.DemoTest@670002]" name="test2" duration-ms="668" started-at="2021-05-24T15:17:39 IST" finished-at="2021-05-24T15:17:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="Logout()[pri:0, instance:testCases.DemoTest@166fa74d]" name="Logout" is-config="true" duration-ms="1" started-at="2021-05-20T15:33:18 IST" finished-at="2021-05-20T15:33:18 IST">
+        <test-method status="PASS" signature="Logout()[pri:0, instance:testCases.DemoTest@670002]" name="Logout" is-config="true" duration-ms="3" started-at="2021-05-24T15:17:40 IST" finished-at="2021-05-24T15:17:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
       </class> <!-- testCases.DemoTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
