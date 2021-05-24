@@ -29,6 +29,9 @@ public class DemoTest {
 		System.out.println("test method 2");
 		driver.get("https://www.google.co.in");
 		
+		
+		
+		
 
 	}
 	@AfterTest
